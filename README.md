@@ -30,3 +30,5 @@ I'm an optimization fanatic, powered by mathematical formulas and a severe lack 
 3. reading about anything
 
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetathealmighty)](https://github.com/zetathealmighty/zetathealmighty)
